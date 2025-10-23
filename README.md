@@ -13,7 +13,9 @@ Un jeu social sombre et stratégique, inspiré des Loups-Garous de Thiercelieux,
 - 🧠 Intelligence artificielle intégrée pour simuler des rôles humains  
 - 🧱 Backend Firebase Firestore
 - 🎨 Identité graphique dessinée à la main  
-- 🎼 Musique originale composée par moi-même  
+- 🎼 Musique originale composée par moi-même
+
+Pour plus d'infos, voir le profil dedié : **[@maledictionvillage](https://github.com/maledictionvillage)**
 
 > *Un village, des secrets… et une malédiction.*
 
