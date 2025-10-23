@@ -1,7 +1,7 @@
 # Salut, moi c’est Nico 👋
 
 🎮 **Développeur indépendant & créatif**, je conçois des jeux **et des applications utilitaires** interactives mêlant narration, stratégie ou utilité concrète.  
-Actuellement étudiant, je développe mes projets autour de Firebase, JavaScript, HTML/CSS, AI2, FreeCAD et autres outils libres.
+Actuellement étudiant, je développe mes projets autour de Firebase, Flutter, FreeCAD et autres outils libres.
 
 ---
 
@@ -9,9 +9,9 @@ Actuellement étudiant, je développe mes projets autour de Firebase, JavaScript
 
 ### 🎲 La Malédiction du Village  
 Un jeu social sombre et stratégique, inspiré des Loups-Garous de Thiercelieux, entièrement développé par mes soins.  
-- 🔥 Disponible sur Android (en développement public)  
+<!-- - 🔥 Disponible sur Android (en développement public)  -->
 - 🧠 Intelligence artificielle intégrée pour simuler des rôles humains  
-- 🧱 Backend Firebase Realtime Database  
+- 🧱 Backend Firebase Firestore
 - 🎨 Identité graphique dessinée à la main  
 - 🎼 Musique originale composée par moi-même  
 
@@ -22,8 +22,7 @@ Un jeu social sombre et stratégique, inspiré des Loups-Garous de Thiercelieux,
 ## 🧰 Applications utilitaires
 Je développe aussi des **applications pratiques** pour des besoins du quotidien ou professionnels :  
 - Gestion RH simplifiée pour TPE  
-- Suivi de défibrillateurs géolocalisés  
-- Extensions personnalisées pour App Inventor  
+- Suivi de défibrillateurs géolocalisés   
 - Outils d’automatisation ou de visualisation
 
 > 📱 Mon objectif : créer des apps utiles, légères, accessibles, même hors des stores classiques.
@@ -50,7 +49,7 @@ Formé pendant **8 ans en CHAM** (*Classe à Horaires Aménagés Musique*), j’
 | Langages & Techs | Outils & Logiciels      | Autres domaines        |
 |------------------|-------------------------|------------------------|
 | HTML / CSS / JS  | Firebase (Auth, DB)     | Game design narratif   |
-| AI2 (MIT App Inv)| Git & GitHub            | Audio / musique MAO    |
+| Flutter | Git & GitHub            | Audio / musique MAO    |
 | FreeCAD          | Node.js (de base)       | UI/UX / graphismes     |
 
 ---
@@ -58,8 +57,7 @@ Formé pendant **8 ans en CHAM** (*Classe à Horaires Aménagés Musique*), j’
 ## 📫 Me contacter
 
 Si tu veux discuter d’un projet, tester un jeu, ou collaborer, tu peux me contacter ici :  
-📩 **[nduquenoy88@gmail.com](mailto:nduquenoy88@gmail.com?subject=Me%20contacter%20depuis%20mon%20profil%20GitHub)**  
-🌐 Bientôt : [maledictionvillage.netlify.app](https://maledictionvillage.netlify.app?utm-source=github.com&utm-medium=readmeProfile@Nico88460)
+📩 **[Mon profil gravatar](https://fr.gravatar.com/nduquenoy88)**  
 
 ---
 
