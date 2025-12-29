@@ -56,6 +56,15 @@ Formé pendant **8 ans en CHAM** (*Classe à Horaires Aménagés Musique*), j’
 
 ---
 
+## Mes objectifs de carrière
+
+Étant au lycée, je me demande déjà (et je dois !) quel métier faire plus tard. Et à cette question, plusieurs réponse s'offrent à moi :
+- déjà, je pense au métier de développeur : je code des applications et des systèmes embarqués donc ça me convient
+- aussi, je me suis interrogé sur les métiers du spectacles liés à l'informatique (ingénieur du son/lumière, régisseur plateau, mapping video...)
+- pour terminer, une des idées les plus folles est d'être ingénieur spécialisé en transports guidés pour créer des attractions et montagnes russe. Si dans ce domaine je peux me spécialiser encore plus en informatique, ce serait parfait !
+
+---
+
 ## 📫 Me contacter
 
 Si tu veux discuter d’un projet, tester un jeu, ou collaborer, tu peux me contacter ici :  
