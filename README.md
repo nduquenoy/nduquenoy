@@ -4,7 +4,7 @@ Je suis un lycéen français, qui m'amuse à créer applications, site web, et m
 
 # Mon principal projet
 
-![](images/favicon.ico) Skyletters
+![](images/favicon-32x32.png) Skyletters
 
 
 Depuis maintenant un an, je développe une web-app nommée Skyletters, qui permet d'écrire des mots, grâce à des lettres formées par des rivières, reliefs, golfes etc, le tout capturé par satellite.
