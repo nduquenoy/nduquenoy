@@ -18,7 +18,7 @@ Depuis maintenant un an, je développe une web-app nommée **Skyletters**, qui p
 
 
 
-Pour tester dès maintenant ce service, rendez-vous sur [https://skyletters.netlify.app/](https://skyletters.netlify.app?utm_source=github.com&utm_medium=nduquenoy%252Fnduquenoy%252FREADME.md).
+Pour tester dès maintenant ce service, rendez-vous sur [skyletters.netlify.app](https://skyletters.netlify.app?utm_source=github.com&utm_medium=nduquenoy%252Fnduquenoy%252FREADME.md).
 
 
 
