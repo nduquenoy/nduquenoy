@@ -73,7 +73,7 @@ Actuellement au lycée, je construis déjà mon parcours autour de mes passions.
 ## 📫 Me contacter
 
 Si tu veux discuter d’un projet, tester un jeu ou collaborer, tu peux me joindre ici :  
-📩 **[Mon profil Gravatar](https://fr.gravatar.com/nduquenoy88)**  
+📩 **[Mon profil Gravatar](https://fr.gravatar.com/nduquenoy)**  
 
 ---
 
