@@ -24,15 +24,4 @@ Pour tester dès maintenant ce service, rendez-vous à [https://skyletters.netli
 
 Ce site est donc bien évidement gratuit, et si vous aimez, n'hésitez pas à en parler autour de vous ! De plus, une application mobile devrait être bientôt disponible…
 
-
-
-
-
-
-
-
-
-
-
-© Spotify est une marque déposée de Spotify AB
-
+<br><br><br><br>© Spotify est une marque déposée de Spotify AB
