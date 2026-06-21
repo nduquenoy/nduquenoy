@@ -10,7 +10,7 @@ Je suis un lycéen français, qui m'amuse à créer applications, site web, et m
 
 
 
-![Skyletters](images/skyletters-header.png)
+[![Skyletters](images/skyletters-header.png)](https://skyletters.netlify.app/?utm_source=github.com&utm_medium=nduquenoy%252Fnduquenoy%252FREADME.md&utm_content=header-logo)
 
 
 
@@ -26,7 +26,7 @@ Ce site est donc bien évidement *gratuit*, et si vous aimez, n'hésitez pas à 
 <br><sub>*De plus, une application mobile devrait être bientôt disponible*…</sub>
 
 <br>Voici un extrait de l'interface :<br><br>
-[![Interface de Skyletters](images/skyletters-ui.gif)](https://skyletters.netlify.app/creer/)
+[![Interface de Skyletters](images/skyletters-ui.gif)](https://skyletters.netlify.app/creer/?utm_source=github.com&utm_medium=nduquenoy%252Fnduquenoy%252FREADME.md&utm_content=ui-demo)
 <!--  : [skyletters.netlify.app](https://skyletters.netlify.app?utm_source=github.com&utm_medium=nduquenoy%252Fnduquenoy%252FREADME.md&utm_content=ui-demo-placeholder-link)-->
 
 <br><br><br><br><sub>© Spotify est une marque déposée de Spotify AB</sub>
